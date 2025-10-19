@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8"/>
@@ -117,9 +118,7 @@ background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0) 10
     <h2>Yuimen</h2>
         <h3>Contexte</h3>
     <p>
-Nous vous invitons à découvrir Yuimen, un univers médiéval fantastique qui a récemment fêté ses vingt ans. Incarnez une espèce parmi les trente-deux disponibles, allant des classiques humains, elfes, nains ou orques aux plus étranges tels que des arbres vivants que sont les Oudios ou les Aniathys, créations animées de magies. Parcourez un monde vaste du continent glacé de Nosveris aux déserts brûlants d’Imiftil. Progressez en suivant votre propre histoire seul, ou en rejoignant d'autres aventuriers pour surmonter les difficultés en groupe ou encore en participant aux évènements, dirigés par un GM, ayant un impact plus ou moins important sur l’univers. Partez à la recherche de reliques légendaires, prêchez votre foi, chassez les créatures qui terrifient les habitants de ce monde, explorez chaque lieu des quatre continents de Yuimen et les îles encore inconnues de l’Aeronland pour en percer tous les mystères. Imprégnez vous de nos légendes, découvrez les histoires de chaque peuple, tremblez devant les monstres du bestiaire, émerveillez vous des plus beaux lieux et frissonnez dans les plus inquiétants.
-      <br/>
-Gagnez de l’expérience, sélectionnez les archétypes qui vous sont proposés et qui correspondent aux aventures ainsi qu’au style de votre personnage.
+Yuimen est un univers médiéval-fantastique avec un background enrichi par des années de fendage de poire et des systèmes de jeu flexibles pour faciliter ledit fendage de poire. Bien que nous n'imposons pas d'exigences quant à la qualité d'écriture, nous encourageons la créativité avec un système de progression via commentaires (un maître de jeu lit et commente un RP en donnant son avis de lecteur en plus de récompenser les actions effectuées).
       <br/>
       Nous accompagnons aussi les joueurs dans la création de leurs propres classes à partir de certains paliers, une tradition qui récompense les joueurs assidus avec des possibilités qui leurs sont propres.
       <br/>
@@ -129,10 +128,10 @@ Gagnez de l’expérience, sélectionnez les archétypes qui vous sont proposés
 
   <!-- Boutons infos -->
   <div class="fiche-buttons">
-    <a href="[#](https://univers.yuimen.net/index.php)">Forum</a>
-    <a href="[#](https://univers.yuimen.net/viewtopic.php?f=13&t=1138)">Règlement</a>
-    <a href="[#](https://discord.gg/sQ93jtE)">Discord</a>
-    <a href="[#](https://univers.yuimen.net/viewforum.php?f=215)">Histoire</a>
+    <a href="#">Forum</a>
+    <a href="#">Règlement</a>
+    <a href="#">Personnages</a>
+    <a href="#">Histoire</a>
   </div>
 
   <!-- Section infos -->
@@ -141,8 +140,10 @@ Gagnez de l’expérience, sélectionnez les archétypes qui vous sont proposés
     <ul>
       <li><b>Type :</b> Forum RPG Médiéval-Fantastique</li>
       <li><b>Ouverture :</b> 2001</li>
-      <li><b>Âge conseillé :</b> 16+ </li>
+      <li><b>Âge conseillé :</b> 16+ (???)</li>
       <li><b>Avatars :</b> Illustrés</li>
+      <li><b>Nombre de lignes :</b> (???)</li>
+    </ul>
   </div>
 
   <!-- Footer -->
