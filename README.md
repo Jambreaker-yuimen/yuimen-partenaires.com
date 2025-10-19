@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8"/>
@@ -142,7 +141,7 @@ Yuimen est un univers médiéval-fantastique avec un background enrichi par des 
       <li><b>Ouverture :</b> 2001</li>
       <li><b>Âge conseillé :</b> 16+ (???)</li>
       <li><b>Avatars :</b> Illustrés</li>
-      <li><b>Nombre de lignes :</b> (???)</li>
+     
     </ul>
   </div>
 
